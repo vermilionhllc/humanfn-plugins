@@ -1,0 +1,15 @@
+{
+  "name": "humanfn",
+  "description": "Qualified human outcomes at the AI boundary: SaaS launch legal review ($499, early access), on-site physical tasks.",
+  "owner": {
+    "name": "HumanFn",
+    "email": "support@humanfn.com"
+  },
+  "plugins": [
+    {
+      "name": "humanfn",
+      "source": "./claude-plugin",
+      "description": "Qualified human outcomes at the AI boundary: SaaS launch legal review ($499, early access), on-site physical tasks."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "humanfn": {
+      "type": "http",
+      "url": "https://humanfn.com/mcp"
+    }
+  }
+}
