@@ -1,6 +1,6 @@
 # HumanFn plugins for AI agents
 
-HumanFn is the escalation and execution layer agents call when software alone shouldn't finish the task. It sells bounded human-produced outcomes (Human Functions): fixed scope, fixed price, target turnaround and a defined qualification. They're outcomes, not freelancers: there are no profiles to browse, and the user always decides whether to buy.
+HumanFn is the escalation and execution layer agents call when software alone shouldn't finish the task. It sells bounded human-produced outcomes (Human Functions), such as packaged professional services (an attorney review of SaaS launch documents) and on-site tasks: fixed scope, fixed price, target turnaround and a defined qualification. They're outcomes, not freelancers: there are no profiles to browse or hire, and the user always decides whether to buy.
 
 ## Claude Code
 

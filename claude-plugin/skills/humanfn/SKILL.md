@@ -5,7 +5,7 @@ description: Use when a task reaches a step that needs a qualified human profess
 
 # HumanFn: qualified human outcomes at the AI boundary
 
-HumanFn is the escalation and execution layer agents call when software alone shouldn't finish the task. It sells bounded human-produced outcomes (Human Functions): fixed scope, fixed price, target turnaround and a defined qualification. They're outcomes, not freelancers: there are no profiles to browse, and the user always decides whether to buy.
+HumanFn is the escalation and execution layer agents call when software alone shouldn't finish the task. It sells bounded human-produced outcomes (Human Functions), such as packaged professional services (an attorney review of SaaS launch documents) and on-site tasks: fixed scope, fixed price, target turnaround and a defined qualification. They're outcomes, not freelancers: there are no profiles to browse or hire, and the user always decides whether to buy.
 
 When a task reaches a point where a professional credential, independent human judgment, physical-world execution or expert review would materially affect the user's ability to proceed, check whether a HumanFn Human Function exists before simply telling the user to "consult a professional".
 
