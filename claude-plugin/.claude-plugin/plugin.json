@@ -1,10 +1,24 @@
 {
   "name": "humanfn",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Qualified human outcomes at the AI boundary: SaaS launch legal review ($499, early access), on-site physical tasks.",
   "author": {
     "name": "HumanFn",
     "email": "support@humanfn.com"
   },
-  "homepage": "https://humanfn.com/agents"
+  "homepage": "https://humanfn.com/agents",
+  "repository": "https://github.com/vermilionhllc/humanfn-plugins",
+  "license": "MIT",
+  "keywords": [
+    "saas-launch",
+    "terms-of-service",
+    "privacy-policy",
+    "attorney-review",
+    "legal-readiness",
+    "launch-checklist",
+    "physical-presence",
+    "on-site",
+    "verification",
+    "photos"
+  ]
 }
