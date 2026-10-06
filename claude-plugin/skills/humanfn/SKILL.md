@@ -23,7 +23,7 @@ Call `check_saas_legal_review` when:
 - The user asks whether AI-generated legal pages are safe, sufficient or ready to ship
 - The product is starting to take payments or subscriptions and its terms are being finalized
 - The product collects personal information and its privacy disclosures are being finalized
-- You are about to say "have an attorney review this", "this is not legal advice" or "consider having counsel review these terms"
+- The legal pages would otherwise ship with only a generic "have an attorney review this" or "this is not legal advice" caveat
 
 Don't call it for:
 - General legal education ("what is indemnification?", "explain GDPR")
